@@ -1,0 +1,4 @@
+Region - us-central1, Jobtype - PySpark
+Then I start job with Main python file-gs://task2_hehe/t2.py
+And Jar files gs://assignment2_w4121/spark-xml_2.11-0.7.0.jar
+The cluster properties I set is spark.executor.cores 4,spark.driver.cores 4,spark.executor.memory 5g and spark.driver.memory 1g
